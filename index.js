@@ -1,6 +1,6 @@
 const fetch = require('isomorphic-fetch')
 
-const token = "bf97e6ba479de69c3f7bd7cbd148211a4ab0605e";
+const token = "token_here";
 const init = {
   headers: {
     Authorization: `token ${token}`
