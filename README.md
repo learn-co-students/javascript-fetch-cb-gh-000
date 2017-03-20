@@ -137,5 +137,3 @@ Keep in mind that, while it is increasing, [browser support](http://caniuse.com/
 
 - [MDN Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [HTML5 Rocks Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-fetch'>Getting Data from the Web</a> on Learn.co and start learning to code for free.</p>
