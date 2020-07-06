@@ -11,7 +11,7 @@ We'll use `fetch()` and describe the problems that it helps solve.
 3.  Get data from a remote endpoint using `fetch()`
 
 ## Introduction
-
+ j
 Getting remote data in JavaScript has classically required a fair amount of
 plumbing to make things happen.
 
